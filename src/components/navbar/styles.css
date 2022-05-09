@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 60px 5px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+
+.nav-link {
+   margin: 0px 70px;
+   font-size: 1.2rem;
+   color:rgba(0, 0, 0, 0.911)
+}
+
+.logo {
+text-decoration: none;
+font-size: 4rem;
+color:rgba(142, 131, 33, 0.911)
+}
+

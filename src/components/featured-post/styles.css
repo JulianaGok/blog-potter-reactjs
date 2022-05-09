@@ -1,0 +1,33 @@
+.featured-post-container {
+    display:flex;
+    justify-content: space-between;
+     margin-top: 120px;
+    color:rgb(54, 54, 54)
+}
+
+
+.featured-post-container div img {
+    width: 40vw;
+    border-radius: 12px;
+   
+}
+
+.featured-post-container div:nth-child(2) {
+    max-width: 43vw;
+}
+
+.featured-post-date {
+    font-size: 0.8rem;
+    color:rgb(125, 130, 128)
+}
+
+.featured-post-title {
+    margin-top: 20px;
+    color:rgb(180, 155, 13)
+}
+
+.featured-post-description {
+    margin-top: 12px;
+    text-align: left;
+}
+

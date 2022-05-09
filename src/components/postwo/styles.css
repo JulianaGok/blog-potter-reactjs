@@ -1,0 +1,36 @@
+.postwo-container {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 80px; 
+    color:rgb(54, 54, 54)
+   
+}
+
+.postwo-container div:nth-child(2) {
+    max-width: 43vw;
+}
+
+
+.postwo-imagem{
+    width: 40vw;
+    height:23vw;
+    border-radius: 12px;
+   
+}
+
+.postwo-date {
+    font-size: 0.8rem;
+    color:rgb(125, 130, 128)
+}
+
+.postwo-title {
+    margin-top: 20px;
+    color:rgb(157, 151, 36)
+}
+
+.postwo-description {
+    margin-top: 24px;
+    text-align: left;
+}
